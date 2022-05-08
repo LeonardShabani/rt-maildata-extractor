@@ -1,0 +1,14 @@
+
+Django==4.0.4
+environs==9.5.0
+celery==5.2.6
+imbox==0.9.8
+openpyxl==3.0.9
+redis==4.2.2
+
+# development dependencies
+ipython==8.3.0
+black==22.3.0
+flake8==4.0.1
+django-debug-toolbar==3.4.0
+django-extensions==3.1.5
